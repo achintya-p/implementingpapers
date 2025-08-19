@@ -1,0 +1,19 @@
+# LoRA Implementation Requirements
+# Core dependencies for the LoRA (Low-Rank Adaptation) implementation
+
+# PyTorch (choose one based on your system)
+torch>=2.0.0
+torchvision>=0.15.0
+
+# For plotting and visualization
+matplotlib>=3.5.0
+numpy>=1.21.0
+
+# Optional: For better training visualization
+# tensorboard>=2.8.0
+# wandb>=0.12.0
+
+# Development dependencies (optional)
+# pytest>=7.0.0
+# black>=22.0.0
+# flake8>=4.0.0
