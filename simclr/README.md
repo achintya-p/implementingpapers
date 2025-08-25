@@ -37,6 +37,9 @@ cd simclr
 
 # Install dependencies
 pip install -r requirements.txt
+
+# Note: CIFAR-10 dataset will be automatically downloaded when you first run the code
+# The dataset (~170MB) is not included in the repository to keep it lightweight
 ```
 
 ### 2. Run Tests
